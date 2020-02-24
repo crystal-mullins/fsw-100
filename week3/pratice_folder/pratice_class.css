@@ -1,0 +1,18 @@
+.weed {
+    color:purple;
+
+}
+
+.weed2 {
+    color:green;
+    
+}
+h1, h2 {
+    font-size: 75px;
+}
+.weed, .weed2 {
+    font-size: 50px;
+}
+div .weed2 {
+    background-color:pink;
+}
