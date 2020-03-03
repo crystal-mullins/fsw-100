@@ -1,0 +1,39 @@
+/* .list1 {
+    background-color: rgb(110, 148, 73);
+    width: 500px;
+    height: 50px;
+    border: 15px solid blue;
+    padding: 100px;
+    margin: 75px;
+} */
+
+/* table {
+    height: 100px;
+    width: 500px;
+    background-color: burlywood; */
+/* } */
+.table, th, td, tr {
+    border: 1px solid black;
+    background-color: khaki;
+    height: 150px;
+    width: 500px;
+  
+}
+.container  {
+    position: relative;
+}
+.topleft    {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+.about_picture {
+    position: absolute;
+    left: 0px;
+    top: opx
+    z-index: -1;
+    width: 100%;
+    height: auto;
+    opacity: 2.3;
+}
