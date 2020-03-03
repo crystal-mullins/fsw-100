@@ -13,8 +13,8 @@
     background-color: burlywood; */
 /* } */
 .table, th, td, tr {
-    border: 1px solid black;
-    background-color: khaki;
+    border: 1px solid darkgreen;
+    background-color: lightcoral;
     height: 150px;
     width: 500px;
   
