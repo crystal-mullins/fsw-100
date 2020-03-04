@@ -47,7 +47,7 @@ html, body{
     top: 425px;
     height: max-content;
     width: 900px;
-    border: 2px solid red
+    border: 2px solid red;
 }
 .cubes {
     /* position: absolute; */
@@ -104,6 +104,7 @@ html, body{
     width: 100%;
     padding: 20px;
     object-fit: cover;
+    /* float: left; */
 
   }
    
