@@ -29,11 +29,19 @@
     font-size: 18px;
 }
 .about_picture {
-    position: absolute;
+    position: relative;
     left: 0px;
     top: opx
-    z-index: -1;
+    z-index; -1;
     width: 100%;
     height: auto;
     opacity: 2.3;
 }
+div {
+    background-color:papayawhip;
+    width: initial;
+    height: initial;
+    border: 15px solid darkblue;
+    padding: 50px;
+    margin: 20px;
+    }
