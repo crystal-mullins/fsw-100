@@ -1,8 +1,6 @@
 
-html, body{
-
-    margin:0;
-    padding: 0;
+body{
+    align-content: center;
 
 }
 .nav-bar{
@@ -19,6 +17,7 @@ html, body{
     width: 100%;
     margin: 10px;
     background-color: lightcoral;
+}
 .about{
     /* position: fixed; */
     text-align: center;
@@ -39,23 +38,34 @@ html, body{
     left: 150px;
     margin: 10px; */
     
-}
+
 
 .sign {
-    position: absolute;
-    left: 0px;
-    top: 425px;
-    height: max-content;
-    width: 900px;
-    border: 2px solid red;
+  position: static;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1040px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+
 }
 .cubes {
-    /* position: absolute; */
-    right: 520px;
-    /* height: 640px; */
-    width: 640px;
-    border: 2px solid red
+  position: static;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 775px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+
 }
+    /* border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;  */
 
 
 
