@@ -83,6 +83,7 @@ html, body{
     font-size: 24px;
 }
 .table, th, td, tr {
+    display: flexbox;
     font-family:'Special Elite', cursive;
     border: 1px solid darkgreen;
     background-color: lavender;
@@ -297,7 +298,7 @@ html, body{
         justify-content: center; */
         position: fixed;
         bottom: 5px;
-        left: 300px;
+        
         font-size: 24px;
     }
     /* order_form css */
